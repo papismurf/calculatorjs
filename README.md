@@ -1,2 +1,2 @@
 # calculatorjs
-Vanilla Javascript Calculator
+Vanilla Javascript Prompt Calculator
